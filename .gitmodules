@@ -1,0 +1,6 @@
+[submodule "open-3d-print-prototypes"]
+	path = open-3d-print-prototypes
+	url = https://github.com/SiliconLabsSoftware/open-3d-print-prototypes.git
+[submodule "open-pcb-prototypes"]
+	path = open-pcb-prototypes
+	url = https://github.com/SiliconLabsSoftware/open-pcb-prototypes.git
